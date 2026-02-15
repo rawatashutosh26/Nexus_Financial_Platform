@@ -1,0 +1,19 @@
+# --- Python Basics ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# --- Virtual Environments ---
+venv/
+env/
+.venv/
+
+data/
+
+# Ignore local environment variables (if you use them later)
+.env
+
+# --- OS Junk Files ---
+.DS_Store
+Thumbs.db
